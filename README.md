@@ -1,3 +1,3 @@
 # ml-math-graph
 
-Obsidian vault with mathematical results tagged by math area and ML relevance.
+Obsidian-хранилище математических результатов с тегами по области математики и связи с машинным обучением.

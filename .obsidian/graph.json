@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#ml/algorithmic_theory",
+      "query": "tag:#ml/алгоритмическая_теория",
       "color": {
         "a": 1,
         "rgb": 7434618
       }
     },
     {
-      "query": "tag:#ml/asymptotics",
+      "query": "tag:#ml/асимптотика",
       "color": {
         "a": 1,
         "rgb": 3120798
@@ -29,14 +29,14 @@
       }
     },
     {
-      "query": "tag:#ml/automated_reasoning",
+      "query": "tag:#ml/автоматизированные_рассуждения",
       "color": {
         "a": 1,
         "rgb": 5395035
       }
     },
     {
-      "query": "tag:#ml/bayes",
+      "query": "tag:#ml/байесовские_методы",
       "color": {
         "a": 1,
         "rgb": 440020
@@ -57,259 +57,259 @@
       }
     },
     {
-      "query": "tag:#ml/classic_ml",
+      "query": "tag:#ml/классическое_машинное_обучение",
       "color": {
         "a": 1,
         "rgb": 1357990
       }
     },
     {
-      "query": "tag:#ml/combinatorial_optimization",
+      "query": "tag:#ml/комбинаторная_оптимизация",
       "color": {
         "a": 1,
         "rgb": 292951
       }
     },
     {
-      "query": "tag:#ml/computer_vision",
+      "query": "tag:#ml/компьютерное_зрение",
       "color": {
         "a": 1,
         "rgb": 16007006
       }
     },
     {
-      "query": "tag:#ml/concentration",
+      "query": "tag:#ml/концентрация",
       "color": {
         "a": 1,
         "rgb": 6514417
       }
     },
     {
-      "query": "tag:#ml/cryptography",
+      "query": "tag:#ml/криптография",
       "color": {
         "a": 1,
         "rgb": 7893356
       }
     },
     {
-      "query": "tag:#ml/deep_learning",
+      "query": "tag:#ml/глубокое_обучение",
       "color": {
         "a": 1,
         "rgb": 15680580
       }
     },
     {
-      "query": "tag:#ml/differential_equations",
+      "query": "tag:#ml/дифференциальные_уравнения",
       "color": {
         "a": 1,
         "rgb": 8138002
       }
     },
     {
-      "query": "tag:#ml/diffusion",
+      "query": "tag:#ml/диффузионные_модели",
       "color": {
         "a": 1,
         "rgb": 14362487
       }
     },
     {
-      "query": "tag:#ml/dimensionality_reduction",
+      "query": "tag:#ml/снижение_размерности",
       "color": {
         "a": 1,
         "rgb": 3718648
       }
     },
     {
-      "query": "tag:#ml/embeddings",
+      "query": "tag:#ml/эмбеддинги",
       "color": {
         "a": 1,
         "rgb": 165063
       }
     },
     {
-      "query": "tag:#ml/estimation",
+      "query": "tag:#ml/оценивание",
       "color": {
         "a": 1,
         "rgb": 2450411
       }
     },
     {
-      "query": "tag:#ml/feature_selection",
+      "query": "tag:#ml/отбор_признаков",
       "color": {
         "a": 1,
         "rgb": 1096065
       }
     },
     {
-      "query": "tag:#ml/formal_methods",
+      "query": "tag:#ml/формальные_методы",
       "color": {
         "a": 1,
         "rgb": 4144966
       }
     },
     {
-      "query": "tag:#ml/generalization",
+      "query": "tag:#ml/обобщение",
       "color": {
         "a": 1,
         "rgb": 5195493
       }
     },
     {
-      "query": "tag:#ml/generative",
+      "query": "tag:#ml/генеративные_модели",
       "color": {
         "a": 1,
         "rgb": 16347926
       }
     },
     {
-      "query": "tag:#ml/geometric_deep_learning",
+      "query": "tag:#ml/геометрическое_глубокое_обучение",
       "color": {
         "a": 1,
         "rgb": 1357990
       }
     },
     {
-      "query": "tag:#ml/geometry",
+      "query": "tag:#ml/геометрия",
       "color": {
         "a": 1,
         "rgb": 16478597
       }
     },
     {
-      "query": "tag:#ml/graph_ml",
+      "query": "tag:#ml/графовое_машинное_обучение",
       "color": {
         "a": 1,
         "rgb": 366185
       }
     },
     {
-      "query": "tag:#ml/hypothesis_testing",
+      "query": "tag:#ml/проверка_гипотез",
       "color": {
         "a": 1,
         "rgb": 15680580
       }
     },
     {
-      "query": "tag:#ml/inference",
+      "query": "tag:#ml/статистический_вывод",
       "color": {
         "a": 1,
         "rgb": 1096065
       }
     },
     {
-      "query": "tag:#ml/information_theory",
+      "query": "tag:#ml/теория_информации",
       "color": {
         "a": 1,
         "rgb": 11032055
       }
     },
     {
-      "query": "tag:#ml/kernels",
+      "query": "tag:#ml/ядровые_методы",
       "color": {
         "a": 1,
         "rgb": 6660877
       }
     },
     {
-      "query": "tag:#ml/linear_models",
+      "query": "tag:#ml/линейные_модели",
       "color": {
         "a": 1,
         "rgb": 889992
       }
     },
     {
-      "query": "tag:#ml/lower_bounds",
+      "query": "tag:#ml/нижние_оценки",
       "color": {
         "a": 1,
         "rgb": 4405450
       }
     },
     {
-      "query": "tag:#ml/manifold_learning",
+      "query": "tag:#ml/обучение_на_многообразиях",
       "color": {
         "a": 1,
         "rgb": 3003583
       }
     },
     {
-      "query": "tag:#ml/markov_models",
+      "query": "tag:#ml/марковские_модели",
       "color": {
         "a": 1,
         "rgb": 947344
       }
     },
     {
-      "query": "tag:#ml/model_selection",
+      "query": "tag:#ml/выбор_модели",
       "color": {
         "a": 1,
         "rgb": 9647082
       }
     },
     {
-      "query": "tag:#ml/neural_networks",
+      "query": "tag:#ml/нейронные_сети",
       "color": {
         "a": 1,
         "rgb": 14427686
       }
     },
     {
-      "query": "tag:#ml/neural_odes",
+      "query": "tag:#ml/neural_ODE",
       "color": {
         "a": 1,
         "rgb": 12131356
       }
     },
     {
-      "query": "tag:#ml/numerical_methods",
+      "query": "tag:#ml/численные_методы",
       "color": {
         "a": 1,
         "rgb": 15357964
       }
     },
     {
-      "query": "tag:#ml/optimization",
+      "query": "tag:#ml/оптимизация",
       "color": {
         "a": 1,
         "rgb": 16096779
       }
     },
     {
-      "query": "tag:#ml/random_matrices",
+      "query": "tag:#ml/случайные_матрицы",
       "color": {
         "a": 1,
         "rgb": 6583435
       }
     },
     {
-      "query": "tag:#ml/signal_processing",
+      "query": "tag:#ml/обработка_сигналов",
       "color": {
         "a": 1,
         "rgb": 14753096
       }
     },
     {
-      "query": "tag:#ml/statistical_learning",
+      "query": "tag:#ml/статистическое_обучение",
       "color": {
         "a": 1,
         "rgb": 165063
       }
     },
     {
-      "query": "tag:#ml/stochastic_processes",
+      "query": "tag:#ml/стохастические_процессы",
       "color": {
         "a": 1,
         "rgb": 1013358
       }
     },
     {
-      "query": "tag:#ml/svm",
+      "query": "tag:#ml/SVM",
       "color": {
         "a": 1,
         "rgb": 8702998
       }
     },
     {
-      "query": "tag:#ml/symbolic_ai",
+      "query": "tag:#ml/символический_ИИ",
       "color": {
         "a": 1,
         "rgb": 2565930
@@ -323,126 +323,126 @@
       }
     },
     {
-      "query": "tag:#ml/trees",
+      "query": "tag:#ml/деревья_решений",
       "color": {
         "a": 1,
         "rgb": 1409085
       }
     },
     {
-      "query": "tag:#ml/uncertainty",
+      "query": "tag:#ml/неопределенность",
       "color": {
         "a": 1,
         "rgb": 561586
       }
     },
     {
-      "query": "tag:#ml/variational_inference",
+      "query": "tag:#ml/вариационный_вывод",
       "color": {
         "a": 1,
         "rgb": 12592851
       }
     },
     {
-      "query": "tag:#ml/vc_theory",
+      "query": "tag:#ml/VC_теория",
       "color": {
         "a": 1,
         "rgb": 3223169
       }
     },
     {
-      "query": "tag:#math/algebra_number_theory",
+      "query": "tag:#math/алгебра_и_теория_чисел",
       "color": {
         "a": 1,
         "rgb": 10576391
       }
     },
     {
-      "query": "tag:#math/analysis",
+      "query": "tag:#math/анализ",
       "color": {
         "a": 1,
         "rgb": 11817737
       }
     },
     {
-      "query": "tag:#math/combinatorics_graphs",
+      "query": "tag:#math/комбинаторика_и_графы",
       "color": {
         "a": 1,
         "rgb": 1409085
       }
     },
     {
-      "query": "tag:#math/complex_analysis",
+      "query": "tag:#math/комплексный_анализ",
       "color": {
         "a": 1,
         "rgb": 12458077
       }
     },
     {
-      "query": "tag:#math/concentration",
+      "query": "tag:#math/концентрация_меры",
       "color": {
         "a": 1,
         "rgb": 5195493
       }
     },
     {
-      "query": "tag:#math/information_theory",
+      "query": "tag:#math/информация_и_KL",
       "color": {
         "a": 1,
         "rgb": 9647082
       }
     },
     {
-      "query": "tag:#math/learning_theory",
+      "query": "tag:#math/теория_обучения",
       "color": {
         "a": 1,
         "rgb": 4405450
       }
     },
     {
-      "query": "tag:#math/linear_algebra",
+      "query": "tag:#math/линейная_алгебра",
       "color": {
         "a": 1,
         "rgb": 1920728
       }
     },
     {
-      "query": "tag:#math/logic_sets",
+      "query": "tag:#math/логика_и_множества",
       "color": {
         "a": 1,
         "rgb": 9741240
       }
     },
     {
-      "query": "tag:#math/measure_functional_analysis",
+      "query": "tag:#math/мера_и_функциональный_анализ",
       "color": {
         "a": 1,
         "rgb": 8266446
       }
     },
     {
-      "query": "tag:#math/optimization",
+      "query": "tag:#math/оптимизация",
       "color": {
         "a": 1,
         "rgb": 14251782
       }
     },
     {
-      "query": "tag:#math/probability",
+      "query": "tag:#math/вероятность",
       "color": {
         "a": 1,
         "rgb": 561586
       }
     },
     {
-      "query": "tag:#math/statistics",
+      "query": "tag:#math/статистика",
       "color": {
         "a": 1,
         "rgb": 223649
       }
     },
     {
-      "query": "tag:#math/topology_geometry",
+      "query": "tag:#math/топология_и_геометрия",
       "color": {
         "a": 1,
         "rgb": 1013358
@@ -459,6 +459,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.713275462622432,
+  "scale": 0.7132754626224312,
   "close": true
 }
