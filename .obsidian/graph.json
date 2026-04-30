@@ -1,0 +1,359 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#ml/transformer",
+      "color": {
+        "a": 1,
+        "rgb": 8141549
+      }
+    },
+    {
+      "query": "tag:#ml/attention",
+      "color": {
+        "a": 1,
+        "rgb": 2450411
+      }
+    },
+    {
+      "query": "tag:#ml/diffusion",
+      "color": {
+        "a": 1,
+        "rgb": 14362487
+      }
+    },
+    {
+      "query": "tag:#ml/generative",
+      "color": {
+        "a": 1,
+        "rgb": 16347926
+      }
+    },
+    {
+      "query": "tag:#ml/deep_learning",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "tag:#ml/neural_networks",
+      "color": {
+        "a": 1,
+        "rgb": 14427686
+      }
+    },
+    {
+      "query": "tag:#ml/optimization",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "tag:#ml/svm",
+      "color": {
+        "a": 1,
+        "rgb": 8702998
+      }
+    },
+    {
+      "query": "tag:#ml/kernels",
+      "color": {
+        "a": 1,
+        "rgb": 6660877
+      }
+    },
+    {
+      "query": "tag:#ml/trees",
+      "color": {
+        "a": 1,
+        "rgb": 1409085
+      }
+    },
+    {
+      "query": "tag:#ml/boosting",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "tag:#ml/classic_ml",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
+      "query": "tag:#ml/linear_models",
+      "color": {
+        "a": 1,
+        "rgb": 889992
+      }
+    },
+    {
+      "query": "tag:#ml/bayes",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    },
+    {
+      "query": "tag:#ml/probabilistic_models",
+      "color": {
+        "a": 1,
+        "rgb": 561586
+      }
+    },
+    {
+      "query": "tag:#ml/statistical_learning",
+      "color": {
+        "a": 1,
+        "rgb": 165063
+      }
+    },
+    {
+      "query": "tag:#ml/generalization",
+      "color": {
+        "a": 1,
+        "rgb": 5195493
+      }
+    },
+    {
+      "query": "tag:#ml/concentration",
+      "color": {
+        "a": 1,
+        "rgb": 6514417
+      }
+    },
+    {
+      "query": "tag:#ml/lower_bounds",
+      "color": {
+        "a": 1,
+        "rgb": 4405450
+      }
+    },
+    {
+      "query": "tag:#ml/model_selection",
+      "color": {
+        "a": 1,
+        "rgb": 9647082
+      }
+    },
+    {
+      "query": "tag:#ml/information_theory",
+      "color": {
+        "a": 1,
+        "rgb": 11032055
+      }
+    },
+    {
+      "query": "tag:#ml/graphs",
+      "color": {
+        "a": 1,
+        "rgb": 1483594
+      }
+    },
+    {
+      "query": "tag:#ml/graph_ml",
+      "color": {
+        "a": 1,
+        "rgb": 366185
+      }
+    },
+    {
+      "query": "tag:#ml/representation_learning",
+      "color": {
+        "a": 1,
+        "rgb": 959977
+      }
+    },
+    {
+      "query": "tag:#ml/dimensionality_reduction",
+      "color": {
+        "a": 1,
+        "rgb": 3718648
+      }
+    },
+    {
+      "query": "tag:#ml/manifold_learning",
+      "color": {
+        "a": 1,
+        "rgb": 3003583
+      }
+    },
+    {
+      "query": "tag:#ml/computer_vision",
+      "color": {
+        "a": 1,
+        "rgb": 16007006
+      }
+    },
+    {
+      "query": "tag:#ml/signal_processing",
+      "color": {
+        "a": 1,
+        "rgb": 14753096
+      }
+    },
+    {
+      "query": "tag:#ml/random_matrices",
+      "color": {
+        "a": 1,
+        "rgb": 6583435
+      }
+    },
+    {
+      "query": "tag:#ml/feature_selection",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "tag:#ml/cryptography",
+      "color": {
+        "a": 1,
+        "rgb": 7893356
+      }
+    },
+    {
+      "query": "tag:#ml/foundations",
+      "color": {
+        "a": 1,
+        "rgb": 7434618
+      }
+    },
+    {
+      "query": "tag:#ml/theory",
+      "color": {
+        "a": 1,
+        "rgb": 5395035
+      }
+    },
+    {
+      "query": "tag:#ml/vc_theory",
+      "color": {
+        "a": 1,
+        "rgb": 3223169
+      }
+    },
+    {
+      "query": "tag:#math/logic_sets",
+      "color": {
+        "a": 1,
+        "rgb": 9741240
+      }
+    },
+    {
+      "query": "tag:#math/algebra_number_theory",
+      "color": {
+        "a": 1,
+        "rgb": 10576391
+      }
+    },
+    {
+      "query": "tag:#math/linear_algebra",
+      "color": {
+        "a": 1,
+        "rgb": 1920728
+      }
+    },
+    {
+      "query": "tag:#math/topology_geometry",
+      "color": {
+        "a": 1,
+        "rgb": 1013358
+      }
+    },
+    {
+      "query": "tag:#math/analysis",
+      "color": {
+        "a": 1,
+        "rgb": 11817737
+      }
+    },
+    {
+      "query": "tag:#math/measure_functional_analysis",
+      "color": {
+        "a": 1,
+        "rgb": 8266446
+      }
+    },
+    {
+      "query": "tag:#math/complex_analysis",
+      "color": {
+        "a": 1,
+        "rgb": 12458077
+      }
+    },
+    {
+      "query": "tag:#math/probability",
+      "color": {
+        "a": 1,
+        "rgb": 561586
+      }
+    },
+    {
+      "query": "tag:#math/statistics",
+      "color": {
+        "a": 1,
+        "rgb": 223649
+      }
+    },
+    {
+      "query": "tag:#math/combinatorics_graphs",
+      "color": {
+        "a": 1,
+        "rgb": 1409085
+      }
+    },
+    {
+      "query": "tag:#math/optimization",
+      "color": {
+        "a": 1,
+        "rgb": 14251782
+      }
+    },
+    {
+      "query": "tag:#math/concentration",
+      "color": {
+        "a": 1,
+        "rgb": 5195493
+      }
+    },
+    {
+      "query": "tag:#math/learning_theory",
+      "color": {
+        "a": 1,
+        "rgb": 4405450
+      }
+    },
+    {
+      "query": "tag:#math/information_theory",
+      "color": {
+        "a": 1,
+        "rgb": 9647082
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9999999999999875,
+  "close": true
+}
